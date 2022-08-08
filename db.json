@@ -7,5 +7,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  [{
+  "id": 1,
+  "nombre": "mariano",
+  "apellido": "avila"
+},
+{
+  "id": 2,
+  "nombre": "xiana",
+  "apellido": "aicardi"
+},
+{
+  "id": 3,
+  "nombre": "pololo",
+  "apellido": "avila"
+}
+]
 }
